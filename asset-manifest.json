@@ -1,0 +1,23 @@
+{
+  "main.css": "/myPortfolio/static/css/main.6c72718f.chunk.css",
+  "main.js": "/myPortfolio/static/js/main.338e473c.chunk.js",
+  "main.js.map": "/myPortfolio/static/js/main.338e473c.chunk.js.map",
+  "runtime~main.js": "/myPortfolio/static/js/runtime~main.918aa22c.js",
+  "runtime~main.js.map": "/myPortfolio/static/js/runtime~main.918aa22c.js.map",
+  "static/js/2.1f550898.chunk.js": "/myPortfolio/static/js/2.1f550898.chunk.js",
+  "static/js/2.1f550898.chunk.js.map": "/myPortfolio/static/js/2.1f550898.chunk.js.map",
+  "index.html": "/myPortfolio/index.html",
+  "precache-manifest.0729add697163b37dc528313f7ff5676.js": "/myPortfolio/precache-manifest.0729add697163b37dc528313f7ff5676.js",
+  "service-worker.js": "/myPortfolio/service-worker.js",
+  "static/css/main.6c72718f.chunk.css.map": "/myPortfolio/static/css/main.6c72718f.chunk.css.map",
+  "static/media/index.css": "/myPortfolio/static/media/roboto-condensed.light.cf4449c1.ttf",
+  "static/media/email_icon.png": "/myPortfolio/static/media/email_icon.fd99f8e3.png",
+  "static/media/google-brands.svg": "/myPortfolio/static/media/google-brands.bf4eaa72.svg",
+  "static/media/instagram_icon.png": "/myPortfolio/static/media/instagram_icon.c88cc5d1.png",
+  "static/media/project1.png": "/myPortfolio/static/media/project1.9e3eecc7.png",
+  "static/media/project2.png": "/myPortfolio/static/media/project2.f08332f8.png",
+  "static/media/project3.png": "/myPortfolio/static/media/project3.f18c73c2.png",
+  "static/media/project4.png": "/myPortfolio/static/media/project4.9e3eecc7.png",
+  "static/media/project5.png": "/myPortfolio/static/media/project5.f08332f8.png",
+  "static/media/project6.png": "/myPortfolio/static/media/project6.9e3eecc7.png"
+}
